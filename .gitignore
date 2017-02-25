@@ -1,0 +1,8 @@
+_Store
+*.xcuserstate
+*.xcuserdatad
+xcuserdata/
+*.xcworkspacedata
+/Pods
+Pods/
+*.svn
